@@ -1,6 +1,4 @@
-# What Limits Bidirectional M
-odel's G
-enerative Capabilities? A Uni-Bi-Directional Mixture-of-Expert Method For Bidirectional Fine-tuning
+# What Limits Bidirectional Model's Generative Capabilities? A Uni-Bi-Directional Mixture-of-Expert Method For Bidirectional Fine-tuning
 
 We demonstrate that bidirectional training leads to an increase in subsequent dependency, and propose  A Uni-Bi-Directional Mixture-of-Expert Large Language Model.
 
